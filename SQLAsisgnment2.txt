@@ -1,0 +1,22 @@
+                                                                 ASSIGNMENT NO.2
+
+
+
+1] Which field of the Customers table is the primary key?
+
+>> Cnum is the primary key of the customer table.
+
+
+2] What is the 4th column of the Customers table?
+
+>> select rating from customer;
+
+
+3] What is another word for row? For column?
+
+>> Another wordfor row is tuple and entity,and for column is attribute or method.
+
+ 
+4] Why isn’t it possible to see the first five rows of a table?
+
+>> select * from table_name LIMIT 5;
